@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-"use strict" // treat all JS code as newer version
-
-console.log("Hello World!")
-=======
 "use strict"; // treat all JS code as newer version
 
 // alert("hello") // we are using nodejs, not browser
@@ -30,4 +25,4 @@ console.log(typeof undefined);
 console.log(typeof null);
 
 // Null is object but undefined is a type 
->>>>>>> dc4fb7b241625e06996fa7d9a4125cb35be42820
+// dc4fb7b241625e06996fa7d9a4125cb35be42820
